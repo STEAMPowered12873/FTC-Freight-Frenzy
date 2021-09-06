@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @STEAMPowered12873
-- 👀 I’m interested in FTC Robotics
-- 🌱 I’m currently learning STEM
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, We're @STEAMPowered12873
+- 👀 We're interested in FTC Robotics
+- 🌱 We're currently learning Java and building robots
+- 📫 How to reach us STEAMPowered12873@gmail.com
 
 <!---
 STEAMPowered12873/STEAMPowered12873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
